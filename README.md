@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio Bootcamp Rocketseat: Database Upload, nesse desafio, foi criado uma aplicação para continuar treinando o que aprendi até agora no Node.js!
+  Desafio Bootcamp Rocketseat: Database Upload, nesse desafio, foi criado uma aplicação para continuar treinando o que aprendi até agora no Node.js.
   <br>
   Essa será uma aplicação que armazena transações financeiras de entrada e saída, permitindo o cadastro e a listagem dessas transações.
 </h3>
